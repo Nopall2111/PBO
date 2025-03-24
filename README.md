@@ -9,6 +9,7 @@ Berikut adalah daftar praktikum yang telah dikerjakan:
 - [Feb 27th](./Feb_27th/)
 - [Mar 04th](./Mar_04th/)
 - [Mar 07th](./Mar_07th/)
-- [Mar 11th](./Mar_11st/)
-
+- [Mar 11st](./Mar_11st/)
+- [Mar 18th](./Mar_18th/)
+- 
 ---
